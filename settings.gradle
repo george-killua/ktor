@@ -1,0 +1,5 @@
+rootProject.name = "web-ktor"
+include "infrastructure"
+include "interface"
+include "database"
+include "domain"
